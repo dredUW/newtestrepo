@@ -1,1 +1,3 @@
 # newtestrepo
+
+![ClosePriceAndTemp](/newplot.png)
